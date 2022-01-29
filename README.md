@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes i am following the odin project. I am enjoying the HTML. Jelani got mad that i spent so long on the Lists, but i wanted them perfect.
