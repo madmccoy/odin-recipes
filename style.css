@@ -1,0 +1,37 @@
+* {
+    background-color: peachpuff;
+}
+
+.recipe {
+    text-align: left;
+    background-color: plum;
+    color: aqua;
+    font-size: 38px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    max-height: 300px;
+    border-radius: 35%;
+  }
+
+p {
+    color: blueviolet;
+    text-align: center;
+    background-color: beige;
+    font-size: 38px;
+}
+h1 {
+    color: aqua;
+    background-color: purple;
+    opacity: 0.6;
+    padding: 25px 50px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 15%;
+}
